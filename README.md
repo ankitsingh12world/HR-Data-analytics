@@ -86,7 +86,7 @@ This dashboard provides a **centralized and interactive solution** to these prob
 ---
 
 ## 📷 Dashboard Preview
-![HR Attendance Dashboard](images/dashboard.png)
+![alt text](image.png)
 
 ---
 
