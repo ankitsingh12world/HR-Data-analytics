@@ -86,7 +86,7 @@ This dashboard provides a **centralized and interactive solution** to these prob
 ---
 
 ## 📷 Dashboard Preview
-![alt text](image.png)
+![alt text](https://github.com/ankitsingh12world/HR-Data-analytics/blob/142a90431f1ba3a2e0ead1b417ec519d93168b6b/dashboard.png)
 
 ---
 
